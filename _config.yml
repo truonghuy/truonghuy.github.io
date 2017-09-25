@@ -1,0 +1,8 @@
+title: Truong-Huy home
+description: Live life as if everybody around you is dying tomorrow
+google_analytics: UA-39221815-2
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
