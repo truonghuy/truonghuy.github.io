@@ -1,7 +1,7 @@
 ### Welcome to Truong-Huy's GitHub Page
 I am an assistant professor at the [Department of Computer and Information Science](https://www.fordham.edu/info/20344/computer_and_information_science/), [Fordham University](https://www.fordham.edu/).
 
-Contact: ![contact](blah.PNG)
+Contact: tnguyen88@fordham.edu
 
 ### News
 * \[Sep 2017\] Organize the Workshop on Data Modeling using Bayesian Networks at Northeastern University
