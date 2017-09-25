@@ -2,6 +2,7 @@
 I am an assistant professor at the [Department of Computer and Information Science](https://www.fordham.edu/info/20344/computer_and_information_science/), [Fordham University](https://www.fordham.edu/).
 
 ### News
+* \[Sep 2017\] Organize the Workshop on Data Modeling using Bayesian Networks at Northeastern University
 * \[Sep 1, 2017\] Join the [Department of Computer and Information Science](https://www.fordham.edu/info/20344/computer_and_information_science/), [Fordham University](https://www.fordham.edu/) as a tenure-track Assistant Professor
 * \[Nov 3, 2016\] I will serve as a Co-Chair, together with Paola Rizzo, of the Doctoral Consortium at Foundations of Digital Games (FDG 2017), to be held in beautiful Cape Cod next summer. Consider submitting to us to meet some of the most awesome game researchers in the world!
 * \[Sep 4, 2016\] New paper "Player Skill Decomposition in Multiplayer Online Battle Arenas" accepted at Meaningful Play 2016
