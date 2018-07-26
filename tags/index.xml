@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 24 Sep 2015 16:04:30 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 25 Oct 2011 23:23:13 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Autonomous assistant</title>
+      <link>/tags/autonomous-assistant/</link>
+      <pubDate>Tue, 25 Oct 2011 23:23:13 -0400</pubDate>
+      
+      <guid>/tags/autonomous-assistant/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Believable virtual characters</title>
@@ -54,6 +63,15 @@
       <pubDate>Wed, 24 Jun 2015 16:11:42 -0400</pubDate>
       
       <guid>/tags/co-word-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative action planning</title>
+      <link>/tags/collaborative-action-planning/</link>
+      <pubDate>Tue, 25 Oct 2011 23:23:13 -0400</pubDate>
+      
+      <guid>/tags/collaborative-action-planning/</guid>
       <description></description>
     </item>
     
@@ -112,6 +130,15 @@
     </item>
     
     <item>
+      <title>Forward sparse sampling</title>
+      <link>/tags/forward-sparse-sampling/</link>
+      <pubDate>Sat, 25 Oct 2014 23:15:47 -0400</pubDate>
+      
+      <guid>/tags/forward-sparse-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Game</title>
       <link>/tags/game/</link>
       <pubDate>Wed, 25 Jul 2018 14:58:57 -0400</pubDate>
@@ -139,6 +166,15 @@
     </item>
     
     <item>
+      <title>Games</title>
+      <link>/tags/games/</link>
+      <pubDate>Tue, 25 Oct 2011 23:23:13 -0400</pubDate>
+      
+      <guid>/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Games research</title>
       <link>/tags/games-research/</link>
       <pubDate>Wed, 24 Jun 2015 16:11:42 -0400</pubDate>
@@ -157,6 +193,15 @@
     </item>
     
     <item>
+      <title>Heuristic</title>
+      <link>/tags/heuristic/</link>
+      <pubDate>Sat, 25 Oct 2014 23:15:47 -0400</pubDate>
+      
+      <guid>/tags/heuristic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Human robot interaction</title>
       <link>/tags/human-robot-interaction/</link>
       <pubDate>Tue, 24 Jul 2018 15:31:58 -0400</pubDate>
@@ -171,6 +216,15 @@
       <pubDate>Wed, 25 Jul 2018 14:58:57 -0400</pubDate>
       
       <guid>/tags/introductory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov decision process</title>
+      <link>/tags/markov-decision-process/</link>
+      <pubDate>Sat, 25 Oct 2014 23:15:47 -0400</pubDate>
+      
+      <guid>/tags/markov-decision-process/</guid>
       <description></description>
     </item>
     
@@ -288,6 +342,42 @@
       <pubDate>Sun, 10 Jun 2018 15:27:33 -0400</pubDate>
       
       <guid>/tags/social-robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse sampling</title>
+      <link>/tags/sparse-sampling/</link>
+      <pubDate>Sat, 25 Oct 2014 23:15:47 -0400</pubDate>
+      
+      <guid>/tags/sparse-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Star</title>
+      <link>/tags/star/</link>
+      <pubDate>Sun, 25 Oct 2009 23:23:17 -0400</pubDate>
+      
+      <guid>/tags/star/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surprise</title>
+      <link>/tags/surprise/</link>
+      <pubDate>Sun, 25 Oct 2009 23:23:17 -0400</pubDate>
+      
+      <guid>/tags/surprise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uct</title>
+      <link>/tags/uct/</link>
+      <pubDate>Tue, 25 Sep 2012 23:23:06 -0400</pubDate>
+      
+      <guid>/tags/uct/</guid>
       <description></description>
     </item>
     

@@ -167,6 +167,42 @@
     
     <url>
     
+      <loc>/publication/icaps2014/</loc>
+      <lastmod>2014-10-25T23:15:47-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/ecml2012/</loc>
+      <lastmod>2012-09-25T23:23:06-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/aiide2011/</loc>
+      <lastmod>2011-10-25T23:23:13-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/aiide2009/</loc>
+      <lastmod>2009-10-25T23:23:17-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/1/</loc>
       <lastmod>2018-07-10T14:56:23-04:00</lastmod>
       <priority>0</priority>
@@ -199,6 +235,16 @@
     
       <loc>/publication_types/6/</loc>
       <lastmod>2017-07-24T15:37:32-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/autonomous-assistant/</loc>
+      <lastmod>2011-10-25T23:23:13-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -258,6 +304,16 @@
     
       <loc>/tags/co-word-analysis/</loc>
       <lastmod>2015-06-24T16:11:42-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/collaborative-action-planning/</loc>
+      <lastmod>2011-10-25T23:23:13-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -326,6 +382,16 @@
     
     <url>
     
+      <loc>/tags/forward-sparse-sampling/</loc>
+      <lastmod>2014-10-25T23:15:47-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/game/</loc>
       <lastmod>2018-07-25T14:58:57-04:00</lastmod>
       <priority>0</priority>
@@ -356,6 +422,16 @@
     
     <url>
     
+      <loc>/tags/games/</loc>
+      <lastmod>2011-10-25T23:23:13-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/games-research/</loc>
       <lastmod>2015-06-24T16:11:42-04:00</lastmod>
       <priority>0</priority>
@@ -376,6 +452,16 @@
     
     <url>
     
+      <loc>/tags/heuristic/</loc>
+      <lastmod>2014-10-25T23:15:47-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/human-robot-interaction/</loc>
       <lastmod>2018-07-24T15:31:58-04:00</lastmod>
       <priority>0</priority>
@@ -388,6 +474,16 @@
     
       <loc>/tags/introductory/</loc>
       <lastmod>2018-07-25T14:58:57-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/markov-decision-process/</loc>
+      <lastmod>2014-10-25T23:15:47-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -546,8 +642,38 @@
     
     <url>
     
+      <loc>/tags/sparse-sampling/</loc>
+      <lastmod>2014-10-25T23:15:47-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/star/</loc>
+      <lastmod>2009-10-25T23:23:17-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/surprise/</loc>
+      <lastmod>2009-10-25T23:23:17-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/</loc>
-      <lastmod>2015-09-24T16:04:30-04:00</lastmod>
+      <lastmod>2011-10-25T23:23:13-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -568,6 +694,16 @@
     
       <loc>/</loc>
       <lastmod>2016-04-20T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/uct/</loc>
+      <lastmod>2012-09-25T23:23:06-04:00</lastmod>
       <priority>0</priority>
     </url>
     

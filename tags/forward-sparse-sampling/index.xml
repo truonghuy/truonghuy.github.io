@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forward sparse sampling on Truong-Huy&#39;s website</title>
+    <link>/tags/forward-sparse-sampling/</link>
+    <description>Recent content in Forward sparse sampling on Truong-Huy&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 25 Oct 2014 23:15:47 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/forward-sparse-sampling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bootstrapping Simulation-Based Algorithms with a Suboptimal Policy</title>
+      <link>/publication/icaps2014/</link>
+      <pubDate>Sat, 25 Oct 2014 23:15:47 -0400</pubDate>
+      
+      <guid>/publication/icaps2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

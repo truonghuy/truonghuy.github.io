@@ -84,5 +84,41 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Bootstrapping Simulation-Based Algorithms with a Suboptimal Policy</title>
+      <link>/publication/icaps2014/</link>
+      <pubDate>Sat, 25 Oct 2014 23:15:47 -0400</pubDate>
+      
+      <guid>/publication/icaps2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bootstrapping Monte Carlo Tree Search with an imperfect heuristic</title>
+      <link>/publication/ecml2012/</link>
+      <pubDate>Tue, 25 Sep 2012 23:23:06 -0400</pubDate>
+      
+      <guid>/publication/ecml2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAPIR: Collaborative Action Planning with Intention Recognition</title>
+      <link>/publication/aiide2011/</link>
+      <pubDate>Tue, 25 Oct 2011 23:23:13 -0400</pubDate>
+      
+      <guid>/publication/aiide2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Surprise Triggered Adaptive and Reactive (STAR) Framework for Online Adaptation in Non-stationary Environments</title>
+      <link>/publication/aiide2009/</link>
+      <pubDate>Sun, 25 Oct 2009 23:23:17 -0400</pubDate>
+      
+      <guid>/publication/aiide2009/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
