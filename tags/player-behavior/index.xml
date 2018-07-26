@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Player behavior on Truong-Huy&#39;s website</title>
+    <link>/tags/player-behavior/</link>
+    <description>Recent content in Player behavior on Truong-Huy&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 24 Jun 2015 16:11:30 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/player-behavior/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Glyph: Visualization Tool for Understanding Problem Solving Strategies in Puzzle Games</title>
+      <link>/publication/fdg2015_glyph/</link>
+      <pubDate>Wed, 24 Jun 2015 16:11:30 -0400</pubDate>
+      
+      <guid>/publication/fdg2015_glyph/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

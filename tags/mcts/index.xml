@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mcts on Truong-Huy&#39;s website</title>
+    <link>/tags/mcts/</link>
+    <description>Recent content in Mcts on Truong-Huy&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 10 Jul 2018 14:56:23 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/mcts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Art of Drafting: A Team-Oriented Hero Recommendation System for Multiplayer Online Battle Arena Games</title>
+      <link>/publication/recsys2018/</link>
+      <pubDate>Tue, 10 Jul 2018 14:56:23 -0400</pubDate>
+      
+      <guid>/publication/recsys2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Truong-Huy&#39;s website</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Truong-Huy&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Art of Drafting: A Team-Oriented Hero Recommendation System for Multiplayer Online Battle Arena Games</title>
+      <link>/publication/recsys2018/</link>
+      <pubDate>Tue, 10 Jul 2018 14:56:23 -0400</pubDate>
+      
+      <guid>/publication/recsys2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q-DeckRec: A Fast Deck Recommendation System for Collectible Card Games</title>
+      <link>/publication/cig2018/</link>
+      <pubDate>Sun, 24 Jun 2018 15:02:24 -0400</pubDate>
+      
+      <guid>/publication/cig2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Affective Drone Swarms: A Preliminary Crowd-Sourced Study</title>
+      <link>/publication/affective_drone_prelim/</link>
+      <pubDate>Sun, 10 Jun 2018 15:27:33 -0400</pubDate>
+      
+      <guid>/publication/affective_drone_prelim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hand Gesture Controlled Drones: An Open Source Library</title>
+      <link>/publication/icdis2018/</link>
+      <pubDate>Tue, 10 Apr 2018 15:21:15 -0400</pubDate>
+      
+      <guid>/publication/icdis2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seagull: A bird’s-eye view of the evolution of technical games research</title>
+      <link>/publication/entcom2018/</link>
+      <pubDate>Sat, 24 Feb 2018 15:09:48 -0400</pubDate>
+      
+      <guid>/publication/entcom2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Visualization for Understanding of Attention Patterns</title>
+      <link>/publication/eyetracking2017/</link>
+      <pubDate>Mon, 24 Jul 2017 15:37:32 -0400</pubDate>
+      
+      <guid>/publication/eyetracking2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Player Skill Decomposition in Multiplayer Online Battle Arenas</title>
+      <link>/publication/meaningfulplay2016/</link>
+      <pubDate>Sun, 24 Jul 2016 15:42:24 -0400</pubDate>
+      
+      <guid>/publication/meaningfulplay2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G-Player: Exploratory Visual Analytics for Accessible Knowledge Discovery</title>
+      <link>/publication/digra2016/</link>
+      <pubDate>Tue, 24 May 2016 15:42:31 -0400</pubDate>
+      
+      <guid>/publication/digra2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling warmth and competence in virtual characters</title>
+      <link>/publication/iva2015/</link>
+      <pubDate>Thu, 24 Sep 2015 16:04:30 -0400</pubDate>
+      
+      <guid>/publication/iva2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Games Research Today: Analyzing the Academic Landscape 2000-2014</title>
+      <link>/publication/fdg2015_gamefield/</link>
+      <pubDate>Wed, 24 Jun 2015 16:11:42 -0400</pubDate>
+      
+      <guid>/publication/fdg2015_gamefield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glyph: Visualization Tool for Understanding Problem Solving Strategies in Puzzle Games</title>
+      <link>/publication/fdg2015_glyph/</link>
+      <pubDate>Wed, 24 Jun 2015 16:11:30 -0400</pubDate>
+      
+      <guid>/publication/fdg2015_glyph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytics-Based AI Techniques for a Better Gaming Experience</title>
+      <link>/publication/aibook2015/</link>
+      <pubDate>Tue, 24 Feb 2015 16:23:38 -0400</pubDate>
+      
+      <guid>/publication/aibook2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emotion on Truong-Huy&#39;s website</title>
+    <link>/tags/emotion/</link>
+    <description>Recent content in Emotion on Truong-Huy&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 24 Jul 2018 15:31:58 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/emotion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Social Robotics</title>
+      <link>/project/social_robotics/</link>
+      <pubDate>Tue, 24 Jul 2018 15:31:58 -0400</pubDate>
+      
+      <guid>/project/social_robotics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 on Truong-Huy&#39;s website</title>
+    <link>/publication_types/6/</link>
+    <description>Recent content in 6 on Truong-Huy&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 24 Jul 2017 15:37:32 -0400</lastBuildDate>
+    
+	<atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interactive Visualization for Understanding of Attention Patterns</title>
+      <link>/publication/eyetracking2017/</link>
+      <pubDate>Mon, 24 Jul 2017 15:37:32 -0400</pubDate>
+      
+      <guid>/publication/eyetracking2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytics-Based AI Techniques for a Better Gaming Experience</title>
+      <link>/publication/aibook2015/</link>
+      <pubDate>Tue, 24 Feb 2015 16:23:38 -0400</pubDate>
+      
+      <guid>/publication/aibook2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

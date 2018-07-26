@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eye-tracking data on Truong-Huy&#39;s website</title>
+    <link>/tags/eye-tracking-data/</link>
+    <description>Recent content in Eye-tracking data on Truong-Huy&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 24 Jul 2017 15:37:32 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/eye-tracking-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interactive Visualization for Understanding of Attention Patterns</title>
+      <link>/publication/eyetracking2017/</link>
+      <pubDate>Mon, 24 Jul 2017 15:37:32 -0400</pubDate>
+      
+      <guid>/publication/eyetracking2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

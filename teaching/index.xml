@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings on Truong-Huy&#39;s website</title>
+    <link>/teaching/</link>
+    <description>Recent content in Teachings on Truong-Huy&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 25 Jul 2018 14:58:57 -0400</lastBuildDate>
+    
+	<atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CISC 2540 Introduction to Video Game Design</title>
+      <link>/teaching/cisc2540/</link>
+      <pubDate>Wed, 25 Jul 2018 14:58:57 -0400</pubDate>
+      
+      <guid>/teaching/cisc2540/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

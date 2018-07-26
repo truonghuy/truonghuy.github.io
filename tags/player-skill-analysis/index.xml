@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Player skill analysis on Truong-Huy&#39;s website</title>
+    <link>/tags/player-skill-analysis/</link>
+    <description>Recent content in Player skill analysis on Truong-Huy&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 24 Jul 2016 15:42:24 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/player-skill-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Player Skill Decomposition in Multiplayer Online Battle Arenas</title>
+      <link>/publication/meaningfulplay2016/</link>
+      <pubDate>Sun, 24 Jul 2016 15:42:24 -0400</pubDate>
+      
+      <guid>/publication/meaningfulplay2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
