@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>Autonomous Assistance</title>
+      <link>/project/capir/</link>
+      <pubDate>Fri, 26 Jul 2013 10:21:47 -0400</pubDate>
+      
+      <guid>/project/capir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bootstrapping Monte Carlo Tree Search with an imperfect heuristic</title>
       <link>/publication/ecml2012/</link>
       <pubDate>Tue, 25 Sep 2012 23:23:06 -0400</pubDate>

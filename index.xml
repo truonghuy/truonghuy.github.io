@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Towards Affective Drone Swarms in Public Spaces</title>
+      <link>/publication/pubrob2018/</link>
+      <pubDate>Thu, 26 Jul 2018 14:01:48 -0400</pubDate>
+      
+      <guid>/publication/pubrob2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavior Analytics</title>
+      <link>/project/behavior_analytics/</link>
+      <pubDate>Thu, 26 Jul 2018 10:25:55 -0400</pubDate>
+      
+      <guid>/project/behavior_analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CISC 2540 Introduction to Video Game Design</title>
       <link>/teaching/cisc2540/</link>
       <pubDate>Wed, 25 Jul 2018 14:58:57 -0400</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Wed, 24 Jun 2015 16:11:30 -0400</pubDate>
       
       <guid>/publication/fdg2015_glyph/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analytics-Based AI Techniques for a Better Gaming Experience</title>
-      <link>/publication/aibook2015/</link>
-      <pubDate>Tue, 24 Feb 2015 16:23:38 -0400</pubDate>
-      
-      <guid>/publication/aibook2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bootstrapping Simulation-Based Algorithms with a Suboptimal Policy</title>
-      <link>/publication/icaps2014/</link>
-      <pubDate>Sat, 25 Oct 2014 23:15:47 -0400</pubDate>
-      
-      <guid>/publication/icaps2014/</guid>
       <description></description>
     </item>
     

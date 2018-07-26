@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 24 Jul 2018 15:31:58 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jul 2018 10:25:55 -0400</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Behavior Analytics</title>
+      <link>/project/behavior_analytics/</link>
+      <pubDate>Thu, 26 Jul 2018 10:25:55 -0400</pubDate>
+      
+      <guid>/project/behavior_analytics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Social Robotics</title>
@@ -18,6 +27,15 @@
       <pubDate>Tue, 24 Jul 2018 15:31:58 -0400</pubDate>
       
       <guid>/project/social_robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Assistance</title>
+      <link>/project/capir/</link>
+      <pubDate>Fri, 26 Jul 2013 10:21:47 -0400</pubDate>
+      
+      <guid>/project/capir/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Capir on Truong-Huy&#39;s website</title>
+    <link>/tags/capir/</link>
+    <description>Recent content in Capir on Truong-Huy&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 26 Jul 2013 10:21:47 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/capir/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Autonomous Assistance</title>
+      <link>/project/capir/</link>
+      <pubDate>Fri, 26 Jul 2013 10:21:47 -0400</pubDate>
+      
+      <guid>/project/capir/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
